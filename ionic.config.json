@@ -1,0 +1,7 @@
+{
+  "name": "walk-map-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
